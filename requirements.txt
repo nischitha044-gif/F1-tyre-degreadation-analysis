@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+scipy
+# Optional (use if you plan to load telemetry from FastF1)
+fastf1

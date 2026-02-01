@@ -1,7 +1,9 @@
 # F1 Tyre Degradation Analysis
 
 ## Overview
-This project analyzes tyre degradation patterns in Formula 1 races using historical lap time data.  
+This project analyzes tyre degradation patterns in Formula 1 races using historical lap time data. 
+This project is being built step by step as I learn GitHub and data analysis.
+
 The goal is to understand how lap times increase as tyres wear and to identify potential pit stop windows.
 
 ## Objective
